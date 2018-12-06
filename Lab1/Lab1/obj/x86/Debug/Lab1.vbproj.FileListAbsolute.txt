@@ -1,0 +1,10 @@
+D:\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Lab1\Lab1\bin\Debug\Lab1.xml
+D:\Lab1\Lab1\obj\x86\Debug\Lab1.frmlab1.resources
+D:\Lab1\Lab1\obj\x86\Debug\Lab1.Resources.resources
+D:\Lab1\Lab1\obj\x86\Debug\Lab1.vbproj.GenerateResource.Cache
+D:\Lab1\Lab1\obj\x86\Debug\Lab1.exe
+D:\Lab1\Lab1\obj\x86\Debug\Lab1.xml
+D:\Lab1\Lab1\obj\x86\Debug\Lab1.pdb
+D:\Lab1\Lab1\obj\x86\Debug\Lab1.frmlab2.resources
